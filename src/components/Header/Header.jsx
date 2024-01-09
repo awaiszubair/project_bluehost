@@ -136,23 +136,23 @@ function Header() {
                 <div className='img_con' style={{ width: '100%', display: 'flex' }}>
                     <div className='L_m' style={{ width: '20%' }}>
                         <div className='m_img'>
-                            <img src={L_m_one} alt="" />
+                            <img src={L_m_one} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                         <div className='m_img'>
-                            <img src={L_m_two} alt="" />
+                            <img src={L_m_two} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                     </div>
                     <div className='M_m' style={{ width: '70%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                         <div className='m_img'>
-                            <img src={M_m_one} alt="" />
+                            <img src={M_m_one} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                     </div>
                     <div className='R_m' style={{ width: '20%' }}>
                         <div className='m_img'>
-                            <img src={R_m_one} alt="" />
+                            <img src={R_m_one} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                         <div className='m_img'>
-                            <img src={R_m_two} alt="" />
+                            <img src={R_m_two} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                     </div>
                 </div>
