@@ -83,7 +83,7 @@ text-align: center;
 
 @media screen and (min-width: 270px) and (max-width: 689px) {
     .landing_mobile{
-        display: block;margin-top: -5rem;
+        display: block;margin-top: -2rem;
         /* border: 1px solid black; */
         width: 100%;
         border-bottom-left-radius: 3rem;
