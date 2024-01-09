@@ -142,7 +142,7 @@ function Header() {
                             <img src={L_m_two} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                     </div>
-                    <div className='M_m' style={{ width: '60%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                    <div className='M_m' style={{ width: '40%', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
                         <div className='m_img'>
                             <img src={M_m_one} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
