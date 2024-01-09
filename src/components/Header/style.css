@@ -53,7 +53,7 @@ text-align: center;
     .t_1 .t_2{
         width: 20%;
     }
-    .landing_mobile{display: none;}
+    .landing_mobile{display: none;width: 100%;}
     .empty{display: none;}
    .left_side_img{
     width: 20%;
