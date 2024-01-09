@@ -1,6 +1,7 @@
 .l-img{
     padding-bottom: 24px;
 }
+body{overflow-x: none;}
 .my_text{
    text-align: center;
    width: 80%;
@@ -84,6 +85,7 @@ text-align: center;
     .landing_mobile{
         display: block;margin-top: -5rem;
         /* border: 1px solid black; */
+        width: 100%;
         border-bottom-left-radius: 3rem;
     border-bottom-right-radius: 3rem;
    
