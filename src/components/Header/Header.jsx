@@ -161,7 +161,7 @@ function Header() {
                     <p>Forreels.io is the central hub for hiring creatives worldwide in the film and photography industry, find creative opportunities as a creative, build, organize and deliver your work so you that you create mind-blowing products on time, every time.</p>
                 </div>
                 <div className='img_con' style={{ width: '100%', display: 'flex' }}>
-                    <div className='L_m' style={{ width: '20%', }}>
+                    <div className='L_m' style={{ width: '30%', }}>
                         <div className='m_img'>
                             <img src={B_m_one} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
@@ -169,7 +169,7 @@ function Header() {
                             <img src={B_m_six} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                     </div>
-                    <div className='M_m' style={{ width: '60%', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', marginTop: '4rem', marginBottom: '4rem' }}>
+                    <div className='M_m' style={{ width: '40%', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column', marginTop: '4rem', marginBottom: '4rem' }}>
                         <div className='m_img'>
                             <img src={B_m_two} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
@@ -177,7 +177,7 @@ function Header() {
                             <img src={B_m_three} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
                     </div>
-                    <div className='R_m' style={{ width: '20%' }}>
+                    <div className='R_m' style={{ width: '30%' }}>
                         <div className='m_img'>
                             <img src={B_m_four} alt="" style={{ width: '100%', height: '100%' }} />
                         </div>
