@@ -57,8 +57,9 @@ margin-left: -5rem;
 
 
 @media screen and (min-width: 270px) and (max-width: 689px) {
-    .s_text h1{line-height: 1rem;}
+    .s_text h1{line-height: 2.3rem;}
+    .s_text h1 {font-size: 2rem;}
     .main_2{width: 90%}
   /* .section2{margin-top: -2rem;background-color: red;} */
-  .mail_box{width: 80%;}
+  .mail_box{width: 90%;}
 }
